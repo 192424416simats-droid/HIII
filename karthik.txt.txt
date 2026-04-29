@@ -1,2 +1,0 @@
-hi i am a software engineer
-i am learning to do git push
